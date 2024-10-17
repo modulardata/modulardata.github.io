@@ -1,42 +1,24 @@
-# Documentation
+# modulardata.github.io
 
-[Static => Static](https://kit.svelte.dev/docs/adapter-static)
+Development in Progress
+The feature you are looking for is currently under development and has not been released yet.
+Please check back later for updates.
 
-## create-svelte
+Thank you for your patience!
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+For more details, you can follow the progress.
+If you'd like to contribute, please see the Contributing section below.
 
-## Creating a project
+## Contributing
 
-If you're seeing this, you've probably already done this step. Congrats!
+Bug reports and pull requests are welcome on GitHub at https://github.com/modulardata/modulardata.github.io.
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## License
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+Available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-## Developing
+## Documentation
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+- [GitHub Pages uses the following dependencies and versions:] (<https://pages.github.com/versions/>)
+- [Static => Static](https://kit.svelte.dev/docs/adapter-static)
